@@ -1,19 +1,19 @@
 {
-  "name": "juice-nft-integration-scaffold",
+  "name": "candy-nft-integration-scaffold",
   "version": "1.0.0",
-  "description": "Juice NFT integration scaffold project",
+  "description": "Candy NFT integration scaffold project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jbx-protocol/nft-integration-scaffold.git"
+    "url": "git+https://github.com/candyboxdao/nft-integration-scaffold.git"
   },
   "keywords": [
-    "juice",
-    "jbx",
-    "juicebox",
+    "candy",
+    "cbx",
+    "candybox",
     "protocol",
     "nft",
     "erc721"
@@ -21,11 +21,11 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jbx-protocol/nft-integration-scaffold/issues"
+    "url": "https://github.com/candyboxdao/nft-integration-scaffold/issues"
   },
-  "homepage": "https://github.com/jbx-protocol/nft-integration-scaffold#readme",
+  "homepage": "https://github.com/candyboxdao/nft-integration-scaffold#readme",
   "dependencies": {
-    "@jbx-protocol/contracts": "^0.0.6",
+    "@candyboxdao/contracts": "^0.0.6",
     "@openzeppelin/contracts": "^4.3.3",
     "add": "^2.0.6",
     "yarn": "^1.22.17"
